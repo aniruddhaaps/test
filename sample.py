@@ -23,3 +23,5 @@ if __name__ == "__main__":
     print(subtract(10, 5))
     print(multiply(10, 5))
     print(divide(10, 5))
+
+    print(divide(10, 0))  # This will raise an exception
